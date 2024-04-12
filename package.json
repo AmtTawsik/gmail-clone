@@ -1,0 +1,45 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.17.3",
+    "nuxt": "^3.6.5",
+    "nuxt-tiptap-editor": "^1.1.0",
+    "sass": "^1.72.0"
+  },
+  "dependencies": {
+    "@egoist/tailwindcss-icons": "^1.1.0",
+    "@heroicons/vue": "^2.0.18",
+    "@iconify-json/mdi": "^1.1.54",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@tiptap/extension-blockquote": "^2.2.4",
+    "@tiptap/extension-bullet-list": "^2.2.4",
+    "@tiptap/extension-image": "^2.2.4",
+    "@tiptap/extension-link": "^2.2.4",
+    "@tiptap/extension-list-item": "^2.2.4",
+    "@tiptap/extension-ordered-list": "^2.2.4",
+    "@tiptap/extension-paragraph": "^2.2.4",
+    "@tiptap/extension-placeholder": "^2.2.4",
+    "@tiptap/extension-text-align": "^2.2.4",
+    "@tiptap/extension-underline": "^2.2.4",
+    "@tiptap/starter-kit": "^2.2.4",
+    "@tiptap/vue-3": "^2.2.4",
+    "@vue-hero-icons/outline": "^1.7.2",
+    "@vue-hero-icons/solid": "^1.7.2",
+    "abort-controller": "^3.0.0",
+    "flowbite": "^2.3.0",
+    "node-fetch": "^3.3.2",
+    "realm-web": "^2.0.0",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "vue-sonner": "^1.1.2",
+    "vue3-toastify": "^0.2.1"
+  }
+}

@@ -1,0 +1,302 @@
+[
+    {
+        "_id": 1,
+        "name": "Qualyval LTD",
+        "email": "qualyval@example.com",
+        "subject": "Inviting for this amazing Application",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "18:37",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+    },
+    {
+        "_id": 2,
+        "name": "Acme Corp",
+        "email": "acme@example.com",
+        "subject": "New Product Launch Event",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "09:15",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-4.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "XYZ Industries",
+        "email": "xyz@example.com",
+        "subject": "Company Picnic Announcement",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "13:45",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-2.jpg"
+    },
+    {
+        "_id": 4,
+        "name": "ABC Corporation",
+        "email": "abc@example.com",
+        "subject": "Employee Appreciation Luncheon",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "11:30",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-3.jpg"
+    },
+    {
+        "_id": 5,
+        "name": "Tech Innovations",
+        "email": "tech@example.com",
+        "subject": "Webinar on Latest Trends in Technology",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "14:20",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+    },
+    {
+        "_id": 6,
+        "name": "Global Solutions Ltd.",
+        "email": "global@example.com",
+        "subject": "Annual General Meeting Invitation",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "10:00",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-3.jpg"
+    },
+    {
+        "_id": 7,
+        "name": "Sunshine Enterprises",
+        "email": "sunshine@example.com",
+        "subject": "Training Workshop on Leadership Skills",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "15:50",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-1.jpg"
+    },
+    {
+        "_id": 8,
+        "name": "StarTech Inc.",
+        "email": "startech@example.com",
+        "subject": "Product Launch Gala",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "14:10",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+    },
+    {
+        "_id": 9,
+        "name": "Innovate Solutions",
+        "email": "innovate@example.com",
+        "subject": "Hackathon Announcement",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "09:45",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-1.jpg"
+    },
+    {
+        "_id": 10,
+        "name": "Silverline Corporation",
+        "email": "silverline@example.com",
+        "subject": "Conference on Business Strategies",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "12:20",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-2.jpg"
+    },
+    {
+        "_id": 11,
+        "name": "Sunrise Technologies",
+        "email": "sunrise@example.com",
+        "subject": "Seminar on Artificial Intelligence",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "16:30",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-4.jpg"
+    },
+    {
+        "_id": 12,
+        "name": "Skyline Innovations",
+        "email": "skyline@example.com",
+        "subject": "Workshop on Digital Marketing Trends",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "11:50",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-3.jpg"
+    },
+    {
+        "_id": 13,
+        "name": "Evergreen Enterprises",
+        "email": "evergreen@example.com",
+        "subject": "Team Building Retreat",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "09:00",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-2.jpg"
+    },
+    {
+        "_id": 14,
+        "name": "Moonlight Technologies",
+        "email": "moonlight@example.com",
+        "subject": "Product Demo Event",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "17:20",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+    },
+    {
+        "_id": 15,
+        "name": "Acme Corp",
+        "email": "acme@example.com",
+        "subject": "New Product Launch Event",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "09:15",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-1.jpg"
+    },
+    {
+        "_id": 16,
+        "name": "XYZ Industries",
+        "email": "xyz@example.com",
+        "subject": "Company Picnic Announcement",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "13:45",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-4.jpg"
+    },
+    {
+        "_id": 17,
+        "name": "ABC Corporation",
+        "email": "abc@example.com",
+        "subject": "Employee Appreciation Luncheon",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "11:30",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-2.jpg"
+    },
+    {
+        "_id": 18,
+        "name": "Tech Innovations",
+        "email": "tech@example.com",
+        "subject": "Webinar on Latest Trends in Technology",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "14:20",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-3.jpg"
+    },
+    {
+        "_id": 19,
+        "name": "Global Solutions Ltd.",
+        "email": "global@example.com",
+        "subject": "Annual General Meeting Invitation",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "10:00",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-1.jpg"
+    },
+    {
+        "_id": 20,
+        "name": "Sunshine Enterprises",
+        "email": "sunshine@example.com",
+        "subject": "Training Workshop on Leadership Skills",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "15:50",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-4.jpg"
+    },
+    {
+        "_id": 21,
+        "name": "StarTech Inc.",
+        "email": "startech@example.com",
+        "subject": "Product Launch Gala",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "14:10",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+    },
+    {
+        "_id": 22,
+        "name": "Innovate Solutions",
+        "email": "innovate@example.com",
+        "subject": "Hackathon Announcement",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "09:45",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-1.jpg"
+    },
+    {
+        "_id": 23,
+        "name": "Silverline Corporation",
+        "email": "silverline@example.com",
+        "subject": "Conference on Business Strategies",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "12:20",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-3.jpg"
+    },
+    {
+        "_id": 24,
+        "name": "Sunrise Technologies",
+        "email": "sunrise@example.com",
+        "subject": "Seminar on Artificial Intelligence",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "16:30",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+    },
+    {
+        "_id": 25,
+        "name": "Skyline Innovations",
+        "email": "skyline@example.com",
+        "subject": "Workshop on Digital Marketing Trends",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "11:50",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-2.jpg"
+    },
+    {
+        "_id": 26,
+        "name": "Evergreen Enterprises",
+        "email": "evergreen@example.com",
+        "subject": "Team Building Retreat",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "09:00",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-4.jpg"
+    },
+    {
+        "_id": 27,
+        "name": "Moonlight Technologies",
+        "email": "moonlight@example.com",
+        "subject": "Product Demo Event",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "17:20",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-1.jpg"
+    },
+    {
+        "_id": 28,
+        "name": "Acme Corp",
+        "email": "acme@example.com",
+        "subject": "New Product Launch Event",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "09:15",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-3.jpg"
+    },
+    {
+        "_id": 29,
+        "name": "XYZ Industries",
+        "email": "xyz@example.com",
+        "subject": "Company Picnic Announcement",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "13:45",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+    },
+    {
+        "_id": 30,
+        "name": "ABC Corporation",
+        "email": "abc@example.com",
+        "subject": "Employee Appreciation Luncheon",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolores vitae.",
+        "time": "11:30",
+        "date": "15 Feb 2024",
+        "image": "https://flowbite.com/docs/images/people/profile-picture-2.jpg"
+    }
+]
